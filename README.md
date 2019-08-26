@@ -20,4 +20,4 @@ Inimigos : Lenhadores, caçadores e traficantes de animais.
 Iteração do jogador: O jogador poderá mover o personagem pelo tela, para derrotar os inimigos e resgatar os animais ao decorrer das fases,  até chegar a fase final e derrotar o 
 chefe final.
 
-Controles: O personagem poderá mover-se para frente e trás, pular, golpear os inimigos e arremessar objetos nos inimigos. 
+Controles: O personagem poderá utilizar-se de botões para mover-se para frente e trás, pular, golpear os inimigos e arremessar objetos nos inimigos. 
