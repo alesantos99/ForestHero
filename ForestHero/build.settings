@@ -9,8 +9,8 @@ settings =
 	{
 		-- Supported values for orientation:
 		-- portrait, portraitUpsideDown, landscapeLeft, landscapeRight
-		default = "landscape",
-		supported = { "landscape", },
+		default = "landscapeRight",
+		supported = { " landscapeRight","landscapeLeft" },
 	},
 
 	--
