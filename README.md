@@ -40,4 +40,6 @@ Controles:
   - Botão que ao pressionado o personagem irá golper os inimigos.
 
 Diagrama de navegação:
+  ![Diagrama de navegacao](https://github.com/alesantos99/ForestHero/issues/1)
+
 
