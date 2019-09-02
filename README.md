@@ -40,6 +40,23 @@ Controles:
   - Botão que ao pressionado o personagem irá golper os inimigos.
 
 Diagrama de navegação:
-  ![Diagrama de navegacao](https://github.com/alesantos99/ForestHero/issues/1)
+  ![Diagrama de navegacao](https://github.com/alesantos99/ForestHero/blob/master/g1150.png)
+
+Sitema de vidas:
+  - O jogador começa com 100 pontos de vida, sempre colidir com um inimigos perderá 10 pontos de vida,
+    um golpe do chefe tira 20 pontos de vida do personagem.
+  - O héroi pode recupera pontos de vida pegando os corações ao longo da fase, incementando os pontos
+    de vida em 100 pontos.
+  - O jogo termina caso o herói zere seus pontos de vida.
+
+Sistema de pontos:
+  - Ao derrotar um inimigo o personagem ganha 10 pontos.
+  - A cada 20 pontos o herói ganha um flecha, caso as flechas acabem o personagem só poderá derrotar os 
+    inimigos os golpeado diretamente.
+
+Fim do Jogo:
+  - Jogo acaba quando o "bussiness man" for derrotado garantindo assim a preservação da fauna e flora
+  do floresta amazônia.
+
 
 
