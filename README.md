@@ -23,7 +23,7 @@ Enredo e personagens :
 Personagem principal: 
   - Curupira
 
-Inimigos : Lenhadores, caçadores e traficantes de animais.
+Inimigos :
     - Lenhadores
     - Caçadores
     - "Business man" empresário interessado em explorar os recursos da 
@@ -38,3 +38,6 @@ Controles:
     para esquerda e direita e par fazê-lo pular.
   - Tocar nos inimigos para lançar flechar neles.
   - Botão que ao pressionado o personagem irá golper os inimigos.
+
+Diagrama de navegação:
+
